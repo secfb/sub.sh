@@ -6,7 +6,7 @@
 
 ## ‼️ [jq](https://stedolan.github.io/jq/download/) , [httprobe](https://github.com/tomnomnom/httprobe) and [parallel](https://www.gnu.org/software/parallel/parallel_tutorial.html) required 📌
 
-## 📘 ✅ Used Services 
+## 📘 ✅ Used Services 🧵
 ```diff
 + https://crt.sh
 + http://web.archive.org
@@ -71,10 +71,6 @@ subdomain webscantest.com
 ![image](https://i.imgur.com/L2sufiT.png)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-## 🧵 Docker Usage
-### https://github.com/cihanmehmet/sub.sh/issues/4
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
